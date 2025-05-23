@@ -1,5 +1,6 @@
 amadeus==12.0.0
-python-telegram-bot==21.4
+# python-telegram-bot==21.4
+python-telegram-bot[job-queue]==21.4
 python-dotenv
 pandas
 sqlite-utils
